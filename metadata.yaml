@@ -1,5 +1,8 @@
 _repo: Without-a-Home_5433
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roe, Edward Payson
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/858
     wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5433#Without-a-Home
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
